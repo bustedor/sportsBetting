@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sports Betting</string>
+    <string name="turkey_super_league_label">Turkey Super League</string>
+    <string name="no_event_label">No events available at the moment.</string>
+    <string name="no_odds_for_event">No odds available for this match.</string>
+    <string name="empty_basket_label">Your basket is empty.</string>
+    <string name="basket_screen_title">Your Bets</string>
+    <string name="number_of_bets_label">Number of Bets:</string>
+    <string name="total_odds_label">Total Odds:</string>
+    <string name="bulletin_label">Bulletin</string>
+</resources>
